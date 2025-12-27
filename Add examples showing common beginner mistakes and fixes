@@ -1,6 +1,0 @@
-This repository shows common mistakes beginners make when learning C++:
-- Forgetting quotes for string literals
-- Not adding spaces in output
-- Using std:: repeatedly instead of 'using namespace std;'
-
-Each example includes comments explaining the mistake and the corrected version.
