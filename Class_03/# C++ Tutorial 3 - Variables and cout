@@ -1,0 +1,10 @@
+This tutorial demonstrates:
+- Declaring variables (int, float, char)
+- Printing values using cout
+- Common beginner mistakes:
+    1. Missing spaces in output
+    2. Printing wrong variable
+    3. Commented old code
+    4. Not using '\n' correctly
+
+All mistakes are fixed in the code.
